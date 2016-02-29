@@ -1,0 +1,48 @@
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\bin\Debug\TLU.exe.config
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\bin\Debug\TLU.exe
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\bin\Debug\TLU.pdb
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\obj\Debug\TLU.csprojResolveAssemblyReference.cache
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\obj\Debug\TLU.Form1.resources
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\obj\Debug\TLU.Properties.Resources.resources
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\obj\Debug\TLU.csproj.GenerateResource.Cache
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\obj\Debug\TLU.exe
+c:\users\justs\documents\visual studio 2015\Projects\TLU\TLU\obj\Debug\TLU.pdb
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\bin\Debug\TLU.exe.config
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\obj\Debug\TLU.exe
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\obj\Debug\TLU.pdb
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\bin\Debug\TLU.exe
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\bin\Debug\TLU.pdb
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\obj\Debug\TLU.csprojResolveAssemblyReference.cache
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\obj\Debug\TLU.Form1.resources
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\obj\Debug\TLU.Properties.Resources.resources
+C:\Users\林小芳\Desktop\TLU\TLU\TLU\obj\Debug\TLU.csproj.GenerateResource.Cache
+C:\Users\林小芳\Desktop\TLU byfang\TLU\TLU\bin\Debug\TLU.exe.config
+C:\Users\林小芳\Desktop\TLU byfang\TLU\TLU\obj\Debug\TLU.exe
+C:\Users\林小芳\Desktop\TLU byfang\TLU\TLU\obj\Debug\TLU.pdb
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\bin\Debug\TLU.exe.config
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\obj\Debug\TLU.exe
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\obj\Debug\TLU.pdb
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\bin\Debug\TLU.exe
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\bin\Debug\TLU.pdb
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\obj\Debug\TLU.csprojResolveAssemblyReference.cache
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\obj\Debug\TLU.Form1.resources
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\obj\Debug\TLU.Properties.Resources.resources
+C:\Users\justs\Downloads\TLU-byfang\TLU byfang\TLU\TLU\obj\Debug\TLU.csproj.GenerateResource.Cache
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\bin\Debug\TLU.exe.config
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\obj\Debug\TLU.exe
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\obj\Debug\TLU.pdb
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\bin\Debug\TLU.exe
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\bin\Debug\TLU.pdb
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\obj\Debug\TLU.csprojResolveAssemblyReference.cache
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\obj\Debug\TLU.Form1.resources
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\obj\Debug\TLU.Properties.Resources.resources
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU\TLU\TLU\obj\Debug\TLU.csproj.GenerateResource.Cache
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\bin\Debug\TLU.exe.config
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\obj\Debug\TLU.exe
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\obj\Debug\TLU.pdb
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\bin\Debug\TLU.exe
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\bin\Debug\TLU.pdb
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\obj\Debug\TLU.csprojResolveAssemblyReference.cache
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\obj\Debug\TLU.Form1.resources
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\obj\Debug\TLU.Properties.Resources.resources
+C:\Users\ruby\Documents\Visual Studio 2013\Projects\TLU_final-66\TLU\TLU\obj\Debug\TLU.csproj.GenerateResource.Cache
